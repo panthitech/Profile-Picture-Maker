@@ -81,5 +81,88 @@
     {
       "name": "fathers day"
     }
+  ],
+  "category1": [
+    {
+      "name": "heart"
+    },
+    {
+      "name": "art"
+    },
+    {
+      "name": "birthday"
+    },
+    {
+      "name": "nature"
+    },
+    {
+      "name": "love"
+    },
+    {
+      "name": "flower"
+    },
+    {
+      "name": "text"
+    },
+    {
+      "name": "basic"
+    },
+    {
+      "name": "animalprint"
+    },
+    {
+      "name": "fruit"
+    },
+    {
+      "name": "texture"
+    },
+    {
+      "name": "wood"
+    },
+    {
+      "name": "abstract"
+    },
+    {
+      "name": "neon"
+    },
+    {
+      "name": "beach"
+    },
+    {
+      "name": "kids"
+    },
+    {
+      "name": "balloon"
+    },
+    {
+      "name": "gradients"
+    },
+    {
+      "name": "bokeh"
+    },
+    {
+      "name": "pattern"
+    },
+    {
+      "name": "gold"
+    },
+    {
+      "name": "rainbow"
+    },
+    {
+      "name": "badge"
+    },
+    {
+      "name": "solid"
+    },
+    {
+      "name": "ganesha"
+    },
+    {
+      "name": "dussehra"
+    },
+    {
+      "name": "fathers day"
+    }
   ]
 }
